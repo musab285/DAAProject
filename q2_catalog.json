@@ -1,0 +1,116 @@
+{
+  "closest_pair": [
+    {
+      "file": "q2_closest_pair_01_120.txt",
+      "n": 120,
+      "seed": 100
+    },
+    {
+      "file": "q2_closest_pair_02_250.txt",
+      "n": 250,
+      "seed": 101
+    },
+    {
+      "file": "q2_closest_pair_03_400.txt",
+      "n": 400,
+      "seed": 102
+    },
+    {
+      "file": "q2_closest_pair_04_600.txt",
+      "n": 600,
+      "seed": 103
+    },
+    {
+      "file": "q2_closest_pair_05_900.txt",
+      "n": 900,
+      "seed": 104
+    },
+    {
+      "file": "q2_closest_pair_06_1500.txt",
+      "n": 1500,
+      "seed": 105
+    },
+    {
+      "file": "q2_closest_pair_07_2500.txt",
+      "n": 2500,
+      "seed": 106
+    },
+    {
+      "file": "q2_closest_pair_08_4000.txt",
+      "n": 4000,
+      "seed": 107
+    },
+    {
+      "file": "q2_closest_pair_09_6000.txt",
+      "n": 6000,
+      "seed": 108
+    },
+    {
+      "file": "q2_closest_pair_10_10000.txt",
+      "n": 10000,
+      "seed": 109
+    }
+  ],
+  "integer_multiplication": [
+    {
+      "file": "q2_integer_multiplication_01_50.txt",
+      "a_digits": 50,
+      "b_digits": 50,
+      "seed": 500
+    },
+    {
+      "file": "q2_integer_multiplication_02_100.txt",
+      "a_digits": 100,
+      "b_digits": 100,
+      "seed": 501
+    },
+    {
+      "file": "q2_integer_multiplication_03_250.txt",
+      "a_digits": 250,
+      "b_digits": 250,
+      "seed": 502
+    },
+    {
+      "file": "q2_integer_multiplication_04_500.txt",
+      "a_digits": 500,
+      "b_digits": 500,
+      "seed": 503
+    },
+    {
+      "file": "q2_integer_multiplication_05_1000.txt",
+      "a_digits": 1000,
+      "b_digits": 1000,
+      "seed": 504
+    },
+    {
+      "file": "q2_integer_multiplication_06_2000.txt",
+      "a_digits": 2000,
+      "b_digits": 2000,
+      "seed": 505
+    },
+    {
+      "file": "q2_integer_multiplication_07_4000.txt",
+      "a_digits": 4000,
+      "b_digits": 4000,
+      "seed": 506
+    },
+    {
+      "file": "q2_integer_multiplication_08_6000.txt",
+      "a_digits": 6000,
+      "b_digits": 6000,
+      "seed": 507
+    },
+    {
+      "file": "q2_integer_multiplication_09_8000.txt",
+      "a_digits": 8000,
+      "b_digits": 8000,
+      "seed": 508
+    },
+    {
+      "file": "q2_integer_multiplication_10_unbalanced.txt",
+      "a_digits": 500,
+      "b_digits": 12000,
+      "seed": 509
+    }
+  ]
+}
