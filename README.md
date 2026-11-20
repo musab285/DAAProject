@@ -1,4 +1,5 @@
 # CS302 Project — Questions 2, 3 and 4
+## Group Members: M. Musab Ali Khan (24K-0528), Shahzaib Hasan (24K-0584), Zain Khan (24K-0509)
 
 All project files are in this directory. Keep them together when copying the
 project. Python 3.8 or newer is required. All Python imports use the standard
